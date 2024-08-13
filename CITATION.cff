@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: SIRD.mlx
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Josue
+    family-names: Morales
+    email: josue.morales193@tectijuana.edu.mx
+  - name: Tecnológico Nacional de México
+repository-code: >-
+  https://github.com/gmcjosue/Modelizado-de-la-dinamica-de-COVID-19-en-los-estados-mas-afectados-de-Mexico
+keywords:
+  - COVID-19
+  - Modelos epidemiológicos
+  - Sistemas no lineales
+  - Regresión no lineal
+  - in silico
+  - Bioestadística 
+license: BSD-2-Clause
+date-released: '2024-08-12'
