@@ -1,0 +1,1 @@
+# Modelizado-de-la-dinamica-de-COVID-19-en-los-estados-mas-afectados-de-Mexico
