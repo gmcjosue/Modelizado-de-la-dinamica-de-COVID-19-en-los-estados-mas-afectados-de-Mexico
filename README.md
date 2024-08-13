@@ -9,7 +9,7 @@ Este proyecto de residencia profesional se enfoca en el desarrollo de un modelo 
 Palabras clave: COVID-19; Modelos epidemiológicos; Sistemas no lineales; Regresión no lineal; in silico;
 Bioestadística.
 
-#Objetivos
+# Objetivos
 Objetivo general:
 Formular un modelo matemático compuesto por Ecuaciones Diferenciales Ordinarias de primer orden que permita describir la evolución del COVID-19 en los estados más afectados de México.
 
